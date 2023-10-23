@@ -8,7 +8,10 @@
         "type" : "ALL_USERS"
       }
     },
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "NOTIFICATION_TARGET",
+      "id" : "a39e4930-67e7-11ee-9a72-255cc9387192"
+    },
     "id" : {
       "entityType" : "NOTIFICATION_TARGET",
       "id" : "a39e4930-67e7-11ee-9a72-255cc9387192"
